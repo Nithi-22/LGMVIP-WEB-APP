@@ -565,6 +565,16 @@ header .navbar a:hover{
   {
     margin:20px;
   }
+  @media(max-width:768px)
+    {
+      .fas fa-utensils{
+        display:block;
+        width:40px;
+        height:40px;
+        margin:10px;
+        float:right;
+        background:#ccc;
+      }
 
 
 
