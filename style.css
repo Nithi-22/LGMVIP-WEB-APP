@@ -486,6 +486,17 @@ header .navbar a:hover{
 .loader-container.fade-out{
   top:-120%;
 }
+nav{
+  float:right;
+}
+.clearfix{
+  clear:both;
+}
+nav ul{
+  margin:0;
+  padding:0;
+  display:flex;
+}
 
 
 
