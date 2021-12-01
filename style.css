@@ -118,6 +118,35 @@ header .navbar a{
 header .navbar a:hover{
   color:var(--red);
 }
+nav{
+  float:right;
+}
+.clearfix{
+  clear:both;
+}
+nav.ul{
+  margin:0;
+  padding:0;
+  display:flex;
+}
+nav.ul.li{
+  list-style:none;}
+nav.ul.li{
+  display:none;
+  margin:10px 0;
+  padding:10px 20px;
+  text-decoration:none;
+}
+
+nav.ul.li.active,
+nav.ul.li.hover
+{
+  background:#069370;
+  transition:0.5s;
+}
+
+
+
 
 #menu-bar{
   font-size: 3rem;
@@ -491,34 +520,6 @@ header .navbar a:hover{
 .loader-container.fade-out{
   top:-120%;
 }
-nav{
-  float:right;
-}
-.clearfix{
-  clear:both;
-}
-nav.ul{
-  margin:0;
-  padding:0;
-  display:flex;
-}
-nav.ul.li{
-  list-style:none;}
-nav.ul.li{
-  display:none;
-  margin:10px 0;
-  padding:10px 20px;
-  text-decoration:none;
-}
-
-nav.ul.li.active,
-nav.ul.li.hover
-{
-  background:#069370;
-  transition:0.5s;
-}
-
-
 
 
 
