@@ -491,7 +491,14 @@ header .navbar a:hover{
 .loader-container.fade-out{
   top:-120%;
 }
-
+      .fas fa-bars{
+        display:block;
+        width:40px;
+        height:40px;
+        float:right;
+        background:#ccc;
+        cursor:pointer;
+      }
 
 
 
@@ -510,16 +517,7 @@ header .navbar a:hover{
   {
     margin:20px;
   }
-  @media(max-width:768px)
-    {
-      .fas fa-bars{
-        display:block;
-        width:40px;
-        height:40px;
-        float:right;
-        background:#ccc;
-        cursor:pointer;
-      }
+  
 
 
 
