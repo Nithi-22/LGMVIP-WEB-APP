@@ -90,6 +90,8 @@ header{
   background:white;
   padding:2rem 9%;
   box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
+  box-sizing:border-box;
+  box-shadow:0 2px;
   
   
   
