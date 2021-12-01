@@ -131,7 +131,7 @@ nav.ul{
 }
 nav.ul.li{
   list-style:none;}
-nav.ul.li{
+nav.ul.li.a{
   display:none;
   margin:10px 0;
   padding:10px 20px;
