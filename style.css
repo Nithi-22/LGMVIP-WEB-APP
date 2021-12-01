@@ -101,6 +101,7 @@ header{
 header .logo{
   font-size: 2.5rem;
   font-weight: bolder;
+  height:30px;
   color:blue;
 }
 
@@ -118,28 +119,28 @@ header .navbar a{
 header .navbar a:hover{
   color:var(--red);
 }
-.nav{
+nav{
   float:right;
 }
-.clearfix{
+clearfix{
   clear:both;
 }
-.nav.ul{
+nav.ul{
   margin:0px;
   padding:0px;
   display:flex;
 }
-.nav.ul.li{
+nav.ul.li{
   list-style:none;}
-.nav.ul.li.a{
+nav.ul.li.a{
   display:block;
   margin:5px 0;
   padding:5px 10px;
   text-decoration:none;
 }
 
-.nav.ul.li.active,
-.nav.ul.li:hover
+nav.ul.li.active,
+nav.ul.li:hover
 {
   background:#069370;
   transition:0.5s;
