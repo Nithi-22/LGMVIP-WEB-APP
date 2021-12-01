@@ -505,7 +505,10 @@ nav.ul.li{
   padding:10px 20px;
   text-decoration:none;
 }
-nav.ul.li.active,hover{
+
+nav.ul.li.active,
+nav.ul.li.hover
+{
   background:#069370;
   transition:0.5s;
 }
