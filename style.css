@@ -589,6 +589,11 @@ header .navbar a:hover{
   }
 
 }
+@media(max-width:1200px){
+  header
+  {
+    margin:20px;
+  }
 
 
 
