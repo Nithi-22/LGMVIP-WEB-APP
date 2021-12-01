@@ -139,7 +139,7 @@ header .navbar a:hover{
 }
 
 .nav.ul.li.active,
-.nav.ul.li.hover
+.nav.ul.li:hover
 {
   background:#069370;
   transition:0.5s;
