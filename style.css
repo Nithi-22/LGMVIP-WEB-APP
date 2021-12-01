@@ -119,33 +119,6 @@ header .navbar a{
 header .navbar a:hover{
   color:var(--red);
 }
-nav{
-  float:right;
-}
-clearfix{
-  clear:both;
-}
-nav.ul{
-  margin:0px;
-  padding:0px;
-  display:flex;
-}
-nav.ul.li{
-  list-style:none;}
-nav.ul.li.a{
-  display:block;
-  margin:5px 0;
-  padding:5px 10px;
-  text-decoration:none;
-}
-
-nav.ul.li.active,
-nav.ul.li:hover
-{
-  background:#069370;
-  transition:0.5s;
-}
-
 
 
 
