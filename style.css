@@ -79,7 +79,7 @@ section{
 }
 
 header{
-  position: relative;
+  position: fixed;
   max-width:1200px;
   box-sizing: border-box;
   border-radius: 4px;
