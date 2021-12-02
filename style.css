@@ -118,10 +118,9 @@ header .navbar a:hover{
   color:var(--red);
 }
 nav{
-  width:100%;
+  width:60%;
   color:white;}
 ul{
-  margin-left:20px;
   width:80%;
   margin:0 auto;
   padding:0;}
