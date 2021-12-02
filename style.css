@@ -117,6 +117,22 @@ header .navbar a{
 header .navbar a:hover{
   color:var(--red);
 }
+nav{
+  width:100%;
+  color:white;}
+ul{
+  width:80%;
+  margin:0 auto;
+  padding:0;}
+ul li{
+  list-style:none;
+  display:inline-block;
+  padding:20px;}
+ul li:hover{
+  background:#e91e63;}
+ul li a{
+  color:#fff;
+  text-decoration:none;}
 
 
 
