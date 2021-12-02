@@ -127,7 +127,7 @@ nav ul li a:hover
 }
 nav ul li a
 {
-  display: fixed;
+  display: block;
   margin:10px 0;
   padding: 10px 20px;
   text-decoration: none;
