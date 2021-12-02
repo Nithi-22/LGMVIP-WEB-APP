@@ -79,7 +79,7 @@ section{
 }
 
 header{
-  position: fixed;
+  position: relative;
   max-width:1200px;
   box-sizing: border-box;
   border-radius: 4px;
@@ -127,7 +127,7 @@ nav ul li a:hover
 }
 nav ul li a
 {
-  display: block;
+  display: fixed;
   margin:10px 0;
   padding: 10px 20px;
   text-decoration: none;
