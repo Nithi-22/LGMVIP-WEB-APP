@@ -88,8 +88,8 @@ header{
   align-items: center;
   justify-content: space-between;
   background:white;
-  padding:5px;
-  box-shadow: 0,5rem,1rem rgba(0,0,0,1);
+  padding:2rem 9%;
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.1);
   
   
   
