@@ -502,16 +502,6 @@ header .navbar a:hover{
         float:right;
       }
 
-@media(max-width:768px){
-.ann{
-  font-size:30px;
-  color:blue;
-  float:right;
-  line-height:20px;
-  margin-right:40px;
-  cursor:pointer;
-}
-}
 
 
 
