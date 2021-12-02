@@ -126,7 +126,7 @@ ul{
   padding:0;}
 ul li{
   list-style:none;
-  display:inline-block;
+  display:flex;
   padding:0px;}
 ul li:hover{
   background:#e91e63;}
