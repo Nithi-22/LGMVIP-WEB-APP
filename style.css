@@ -509,6 +509,14 @@ header .navbar a:hover{
   margib-right:40px;
   float:right;}
 
+.checkbtn{
+  font-size:30px;
+  color:blue;
+  float:right;
+  line-height:80px;
+  margin-right:40px;
+}
+
 
 
 
