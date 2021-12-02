@@ -136,7 +136,7 @@ ul li a{
 .bars{
   width:100%;
   padding:10px 20px;
-  background:blue;
+  background:skyblue;
   text-align:right;
   box-sizing:border-box;
   color:#fff;
@@ -144,7 +144,7 @@ ul li a{
 #menu-bar{
   font-size: 3rem;
   cursor: pointer;
-  
+  color:black;
   border:.1rem solid #666;
   border-radius: .3rem;
   padding:.5rem 1.5rem;
