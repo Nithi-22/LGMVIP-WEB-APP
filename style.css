@@ -133,6 +133,13 @@ ul li:hover{
 ul li a{
   color:#fff;
   text-decoration:none;}
+.bars{
+  width:100%;
+  padding:10px 20px;
+  background:blue;
+  text-align:right;
+  box-sizing:border-box;
+  color:#fff;}
 
 
 
