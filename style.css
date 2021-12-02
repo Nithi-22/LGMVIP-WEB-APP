@@ -127,7 +127,7 @@ ul{
 ul li{
   list-style:none;
   display:inline-block;
-  padding:20px;}
+  padding:5px;}
 ul li:hover{
   background:#e91e63;}
 ul li a{
