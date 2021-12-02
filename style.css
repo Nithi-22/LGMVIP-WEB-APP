@@ -501,6 +501,13 @@ header .navbar a:hover{
         cursor:pointer;
         float:right;
       }
+.fas fa-bars{
+  font-size:30px;
+  color:white;
+  float:right;
+  line-height:80px;
+  margib-right:40px;
+  float:right;}
 
 
 
